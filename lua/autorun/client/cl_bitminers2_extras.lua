@@ -26,7 +26,7 @@ surface.CreateFont( "Bitminers2ExtrasPhone", {
 
 local BITMINERS2_TERMINAL_STRINGS = {
 	[1] = "Failed to install! : 0x6753c2890 Already installed for this user!",
-	[2] = "Remote module has been installed! Type !remotebitminer to access it remotely!",
+	[2] = "Remote module has been installed! Type !remotebitminers to access it remotely!",
 	[4] = "Remote module has been uninstalled. No one can access this bitminer remotely anymore."
 }
 
